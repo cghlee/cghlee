@@ -8,7 +8,7 @@ Welcome to my Repo 👋
 - 📫 - Connect with me on [LinkedIn](https://www.linkedin.com/in/leecgh/)
 
 **I am constantly striving to refine my skill set, seeking more efficient and higher-quality solutions for any problem at hand**
-- 📅 - Began coding in early to mid-2023
+- 📅 - Dedicated myself to coding in early to mid-2023
 - 🏕️ - Twelve-week bootcamp broadened my knowledge of IT
 - ⌨️ - Continuing to hone, expand and challenge my abilities
 

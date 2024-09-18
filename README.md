@@ -1,15 +1,17 @@
 Welcome to my Repo 👋
 ---
-### I'm Chris, a Science-focused Engineer transitioning into Tech
-**My present goal is to become a Software Developer, or Cloud Engineer**
-- 🖥️ - Self-taught in Python, JavaScript, CSS, and HTML
-- 🎯 - Aiming to learn Java and SQL
-- ☁️ - Microsoft Azure AZ-900 certification
+### I'm Chris, an aspiring Software Engineer mid-transition into Tech
+**My goal is to become a more proficient Software Engineer to better meet customers' needs**
+- 🖥️ - Self-taught in Python, TypeScript and SQL
+- ☁️ - AWS experience, with Microsoft Azure AZ-900 certification
+- 🤖 - Extensive integrations with OpenAI API, and APIs of other business platforms
+- 🎯 - Aiming to learn Java in future
 - 📫 - Connect with me on [LinkedIn](https://www.linkedin.com/in/leecgh/)
 
 **I am constantly striving to refine my skill set, seeking more efficient and higher-quality solutions for any problem at hand**
-- 📅 - Dedicated myself to coding in early to mid-2023
-- 🏕️ - Twelve-week bootcamp broadened my knowledge of IT
+- 📅 - Dedicated myself to coding over the COVID-19 pandemic
+- 🏕️ - Twelve-week bootcamp in mid-2023 broadened my knowledge of IT
+- 🏢 - Internship at a AI-related start-up from late-2023 gave me valuable Software Engineering experience
 - ⌨️ - Continuing to hone, expand and challenge my abilities
 
 **The bleeding edge of technology is of particular interest to me, as I look at how new tech can:**

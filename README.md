@@ -1,7 +1,7 @@
 Welcome to my Repo 👋
 ---
 ### I'm Chris, an aspiring Software Engineer mid-transition into Tech
-**My goal is to become a more proficient Software Engineer to better meet customers' needs**
+**My goal is to become a more proficient developer to better meet customers' needs**
 - 🖥️ - Self-taught in Python, TypeScript and SQL
 - ☁️ - AWS experience, with Microsoft Azure AZ-900 certification
 - 🤖 - Extensive integrations with OpenAI API, and APIs of other business platforms

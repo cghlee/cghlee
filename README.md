@@ -2,10 +2,11 @@ Welcome to my Repo 👋
 ---
 ### I'm Chris, an aspiring Software Engineer mid-transition into Tech
 **My goal is to become a more proficient developer to better meet customers' needs**
-- 🖥️ - Self-taught in Python, TypeScript and SQL, and currently learning Java
+- 🖥️ - Self-taught in Python, TypeScript and SQL
+- 🎯 - Currently learning Java, with a desire to learn more in future
 - ☁️ - AWS experience, with Microsoft Azure AZ-900 certification
-- 🤖 - Extensive integrations with OpenAI API, as well as APIs of other business platforms
-- 🎯 - Aiming to learn other languages in future
+- 🤖 - Extensive integrations with OpenAI API, and APIs of business platforms (e.g. Intercom)
+
 - 📫 - Connect with me on [LinkedIn](https://www.linkedin.com/in/leecgh/)
 
 **I am constantly striving to refine my skill set, seeking more efficient and higher-quality solutions for any problem at hand**

@@ -6,7 +6,6 @@ Welcome to my Repo 👋
 - 🎯 - Currently learning Java, with a desire to learn more in future
 - ☁️ - AWS experience, with Microsoft Azure AZ-900 certification
 - 🤖 - Extensive integrations with OpenAI API, and APIs of business platforms (e.g. Intercom)
-
 - 📫 - Connect with me on [LinkedIn](https://www.linkedin.com/in/leecgh/)
 
 **I am constantly striving to refine my skill set, seeking more efficient and higher-quality solutions for any problem at hand**

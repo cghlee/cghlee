@@ -20,6 +20,6 @@ Welcome to my Repo 👋
 
 My personal interests include:
 ---
-- 🎻- Classical music and opera
-- 📖- Literature and novels
+- 🎻 - Classical music and opera
+- 📖 - Literature and novels
 - 🏃‍♂️ - Running target - 10km

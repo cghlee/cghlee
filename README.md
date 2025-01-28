@@ -2,9 +2,10 @@ Welcome to my Repo 👋
 ---
 ### I'm Chris, an aspiring Full-Stack Engineer mid-transition into Tech
 **My goal is to become a more proficient developer to better meet customers' needs**
-- 🖥️ - Proficient with C#, TypeScript, SQL, Python, CSS and HTML
+- 🖥️ - Backend - Proficient with C# (.NET), TypeScript (Node.js), SQL and Python
+- 🖼️ - Frontend - Experience with React (JS), Blazor (.NET), Tailwind, and native CSS and HTML
 - 🎯 - Eager to learn more languages as needs arise
-- ☁️ - AWS experience, with Microsoft Azure AZ-900 certification
+- ☁️ - AWS familiarity, with Microsoft Azure AZ-900 certification
 - 🤖 - Extensive integrations with OpenAI API, and APIs of business platforms (e.g. Salesforce, Zendesk)
 - 📫 - Connect with me on [LinkedIn](https://www.linkedin.com/in/leecgh/)
 
@@ -23,4 +24,3 @@ My personal interests include:
 ---
 - 🎻 - Classical music and opera
 - 📖 - Literature and novels
-- 🏃‍♂️ - Running target - 10km

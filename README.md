@@ -1,6 +1,6 @@
 Welcome to my Repo 👋
 ---
-### I'm Chris, an aspiring Full-Stack Engineer mid-transition into Tech
+### I'm Chris, an aspiring Full-Stack Developer mid-transition into Tech
 **My goal is to become a more proficient developer to better meet customers' needs**
 - 🖥️ - Backend - Proficient with C# (.NET), TypeScript (Node.js), SQL and Python
 - 🖼️ - Frontend - Experience with React (JS), Blazor (.NET), Tailwind, and native CSS and HTML

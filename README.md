@@ -10,7 +10,7 @@ Welcome to my Repo 👋
 - 📫 - Connect with me on [LinkedIn](https://www.linkedin.com/in/leecgh/)
 
 **I am constantly striving to refine my skill set, seeking more efficient and higher-quality solutions for any problem at hand**
-- 🏕️ - Thirteen-week C# Software Development bootcamp since late-2024 is growing my tech stack proficiencies
+- 🏕️ - Fifteen-week C# Software Development bootcamp from late-2024 grew my tech stack to encompass frontend
 - 🏢 - Internship at an AI-related start-up from late-2023 provided valuable collaborative development experience
 - 🧑‍🏫 - ICT Cloud course in mid-2023 gave me knowledge of cloud provider and IT network management fundamentals
 - 📅 - Dedicated myself to programming over the COVID-19 pandemic

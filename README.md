@@ -4,7 +4,7 @@ Welcome to my Repo 👋
 **My goal is to become a more proficient developer to better meet customers' needs**
 - 🖥️ - Backend - Proficient with C# (.NET), TypeScript (Node.js), SQL and Python
 - 🖼️ - Frontend - Experience with Blazor (.NET), Tailwind, and native CSS and HTML
-- 🎯 - Currently learning React via The Odin Project, and eager to learn more languages as needs arise
+- 🎯 - Currently learning React via [The Odin Project](https://www.theodinproject.com/), and eager to learn more languages as needs arise
 - ☁️ - AWS familiarity, with Microsoft Azure AZ-900 certification
 - 🤖 - Created ASP.NET web APIs, and integrated with APIs of OpenAI and business platforms (e.g. Salesforce, Zendesk)
 - 📫 - Connect with me on [LinkedIn](https://www.linkedin.com/in/leecgh/)

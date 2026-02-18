@@ -1,24 +1,19 @@
 Welcome to my Repo 👋
 ---
-### I'm Chris, an aspiring Software Developer mid-transition into Tech
-**My goal is to become a more proficient developer to better meet customers' needs**
-- 🖥️ - Backend - Proficient with C# (.NET), TypeScript (Node.js), SQL and Python
-- 🖼️ - Frontend - Experience with Blazor (.NET) and Bulma CSS, alongside native CSS and HTML
-- 🎯 - Currently learning React via [The Odin Project](https://www.theodinproject.com/), and eager to learn more languages as needs arise
-- ☁️ - AWS familiarity, with Microsoft Azure AZ-900 certification
+### I'm Chris - a Software Developer ever eager to learn and tinker with new tech
+- 🖥️ - Backend - Proficient with C# (.NET, Unity), TypeScript (Node.js), SQL (and ORMs), and Python
+- 🖼️ - Frontend - Familiar with Blazor (.NET), CSS, and HTML
+- 🎯 - Currently learning about AI and LLMs from [Hugging Face](https://huggingface.co/learn/llm-course/chapter1/1)
+- ☁️ - Experienced using AWS, with Microsoft Azure AZ-900 certification
 - 🤖 - Created ASP.NET web APIs, and integrated with APIs of OpenAI and other business platforms (e.g. Salesforce, Zendesk)
 - 📫 - Connect with me on [LinkedIn](https://www.linkedin.com/in/leecgh/)
 
-**I am constantly striving to refine my skill set, seeking more efficient and higher-quality solutions for any problem at hand**
-- 🏕️ - Fifteen-week C# Software Development bootcamp from late-2024 grew my tech stack to further encompass frontend
-- 🏢 - Internship at an AI-related start-up from late-2023 provided valuable collaborative development experience
-- 🧑‍🏫 - ICT Cloud course in mid-2023 gave me knowledge of cloud provider and IT network management fundamentals
-- 📅 - Dedicated myself to programming over the COVID-19 pandemic
-- ⌨️ - Continuing to hone, expand and challenge my abilities
-
-**The bleeding edge of technology is of particular interest to me, as I look at how new tech can:**
-- 🔬 - Enable innovative solutions for modern-day barriers and bottlenecks
-- 🏙️ - Benefit clients, stakeholders, and wider society as a whole
+**I've gained a wide range of practical experience across:**
+- 🎮 - Developing [Zombie God](https://store.steampowered.com/app/3035320/Zombie_God/) within a small, dynamic team since mid-2025
+- 🏕️ - Fifteen-week C# Software Development bootcamp from late-2024 to expand my tech stack with frontend knowledge and strongly-typed language
+- 🏢 - Ten-month internship at an AI-related start-up from late-2023 for valuable initial collaborative development experience
+- 🧑‍🏫 - ICT Cloud course in mid-2023 for knowledge of cloud infrastructure and IT network management fundamentals
+- 💪 - Always looking for new ways to challenge myself
 
 My personal interests include:
 ---

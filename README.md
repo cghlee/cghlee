@@ -10,7 +10,7 @@ Welcome to my Repo 👋
 
 **I've gained a wide range of practical experience across:**
 - 🎮 - Developing [Zombie God](https://store.steampowered.com/app/3035320/Zombie_God/) within a small, dynamic team since mid-2025
-- 🏕️ - Fifteen-week C# (.NET) development bootcamp from late-2024 to round out tech stack with frontend capability and strongly-typed language
+- 🏕️ - Fifteen-week C# (.NET) bootcamp from late-2024 to round out tech stack with frontend capabilities and strongly-typed language
 - 🏢 - Ten-month internship at an AI-related start-up from late-2023 for valuable initial collaborative development experience
 - 🧑‍🏫 - ICT Cloud course in mid-2023 for knowledge of cloud infrastructure and IT network management fundamentals
 - 💪 - Always looking for new ways to challenge myself
